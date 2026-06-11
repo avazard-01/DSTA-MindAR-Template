@@ -1,4 +1,4 @@
-# Self-Introduction First Project 
+# Personal AR Namecard 
 First try with modifying file in Github  
  
 # Hi, I'm Faith! 👋 
