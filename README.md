@@ -1,4 +1,4 @@
-# Personal AR Namecard 
+# Personal AR 
 First try with modifying file in Github  
  
 # Hi, I'm Faith! 👋 
