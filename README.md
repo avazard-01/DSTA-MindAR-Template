@@ -1,4 +1,4 @@
-# [Self-Introduction First Project] 
+# Self-Introduction First Project 
 First try with modifying file in Github  
  
 # Hi, I'm Faith! 👋 
